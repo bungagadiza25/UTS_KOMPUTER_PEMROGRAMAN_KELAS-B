@@ -11,3 +11,4 @@ Sistem Inventori Gudang ini dibuat untuk membantu perusahaan logistik dalam meng
 Struktur sistem dibangun menggunakan tiga kelas utama, yaitu BarangGudang, Gudang, dan Main. Kelas BarangGudang berfungsi menyimpan informasi setiap barang dan menyediakan metode untuk memperbarui stok. Kelas Gudang bertugas mengelola kumpulan barang dalam bentuk daftar, termasuk menambah barang baru, mencari barang berdasarkan kode, serta menampilkan seluruh data barang yang tersimpan. Sedangkan kelas Main berperan sebagai pengendali utama program yang mengatur jalannya sistem, mulai dari input data awal hingga penyediaan menu interaktif menggunakan looping dan if–else agar pengguna dapat memilih fitur yang diinginkan.
 
 Dengan sistem ini, proses pengelolaan inventori di gudang menjadi lebih mudah, cepat, dan akurat, sekaligus meminimalkan risiko kesalahan pencatatan manual.
+
